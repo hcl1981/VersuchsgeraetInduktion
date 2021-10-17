@@ -1,5 +1,14 @@
-#include <Arduino.h>
+/*
+	Author: Jan Schulz 2019-2021
+	License: 
+	Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+	https://creativecommons.org/licenses/by-nc-sa/4.0/
+	
+	For further details check out: 
+		https://513kid.de
+*/
 
+#include <Arduino.h>
 #include "nRF24L01.h"
 #include "RF24.h"
 #include "SPI.h"
